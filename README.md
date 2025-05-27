@@ -20,7 +20,7 @@ A modern, cross-platform desktop client for competitive programming, built with 
 - Multi-language support but it depends on which class are you in
 - Easy code submission and testing for sure
 - ~~Offline~~ Online mode only lol
-- Dark themes (Whoever use light mode is gæ)
+- Dark themes (Web version only, whoever use light mode is gæ)
 - Require ***an account*** lol
 ---
 

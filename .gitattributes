@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+ptit-code-client.exe filter=lfs diff=lfs merge=lfs -text

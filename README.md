@@ -47,4 +47,18 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
+## ❗ Troubleshooting
+
+If you see "This app can't run on your PC":
+
+- Make sure you are using **Windows 10/11 64-bit**. This app will not run on 32-bit Windows or Windows on ARM.
+- Download the latest release from the [Releases](https://github.com/KadminVN/ptit-code-client-win-x64/releases) page.
+- If you see an "Unblock" button in the file properties, click it.
+- Try re-downloading the file if it may be corrupted.
+- Ensure all required dependencies are installed (see above).
+
+If you still have issues, please open an [issue](https://github.com/KadminVN/ptit-code-client-win-x64/issues) and provide your Windows version and system type.
+
+---
+
 > Made with ❤️ using Electrokad

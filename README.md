@@ -28,7 +28,7 @@ A modern, cross-platform desktop client for competitive programming, built with 
 
 1. Download **both** the `.exe` file and the `.zip` file from the [Releases](https://github.com/KadminVN/ptit-code-client-win-x64/releases/) page.
 2. Extract the `.zip` file to a folder of your choice.
-3. Move (or copy) the downloaded `ptit-code-client.exe` into the folder where you extracted the `.zip` file.
+3. Replace the downloaded `ptit-code-client.exe` into the folder where you extracted the `.zip` file.
 4. Run `ptit-code-client.exe` from inside that folder.
 
 ---
